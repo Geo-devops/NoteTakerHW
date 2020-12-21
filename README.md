@@ -1,10 +1,8 @@
-# Star Wars 03 (Commented)
+#NoteTaker Homework     
 
 ## File
 
-* `server4.js`
 
 ## Instructions
 
-* Examine the code flagged in the comments. Was your hypothesis from the previous activity correct?
-
+*This is a user friendly app that allows you to take notes electronically, save, and revisit. Once you have given your note a title, go ahead and start typing in the body.  When you are ready to save click the save icon in the top right hand corner (icon of floppy disk) 
